@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.822);
+}
+#navbar{
+    height: 40px;
+    background-color: black;
+}
+#logo{
+    font-size: 30px;
+    color: rgb(39, 188, 104);
+    margin-left: 680.5px;
+    letter-spacing: 3px;
+}    
+#sign_pg{
+    color: white;
+    margin-left: 650.5px;
+}
+.input_box{
+    padding-right: 17px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    margin-left: -20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+#sign_btn{
+    border: 2px solid rgb(39, 188, 104);
+    background-color: rgb(39, 188, 104);
+    padding-left: 55px;
+    padding-right: 50px;
+    margin-left: -5px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    font-weight: bold;
+    font-size: 20px;
+}
